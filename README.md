@@ -8,6 +8,6 @@ Unfortunately, we had to abandon the project as some experimental results did no
 
 For more details, please check the full report ``Number_of_node_calculation.pdf''.
 
-**Note:** I want to highlight the last result obtained for stack 3 (Power data) does not support the node calculation; however, overall performance supports it.
+**Note:** I want to highlight the last result obtained for stack 3 (Power data) does not support the node calculation; however, the overall performance of the analysis supports it.
 
 Feel free to reach out if you have any questions or feedback.
