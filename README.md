@@ -6,7 +6,7 @@ I proposed a metric approach to node selection, which is second to none. By leve
 
 Unfortunately, we had to abandon the project as some experimental results did not support the proposed metric. 
 
-For the time being, for more details, please check the full report (Number_of_node_calculation.pdf) of the analysis.
+For more details, please check the full report ``Number_of_node_calculation.pdf''.
 Note: I want to highlight the last result obtained for stack 3 (Power data) does not support the node calculation; however, overall performance supports it.
 
 Feel free to reach out if you have any questions or feedback.
