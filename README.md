@@ -4,9 +4,9 @@ Node selection for LSTM models is typically arbitrary, with values such as 128 o
 
 I proposed a metric approach to node selection, which is second to none. By leveraging carefully crafted metrics, I analyze and evaluate its performance on a diverse range of two real datasets using various LSTM architectures.
 
-Unfortunately, we had to abandon the project as the experimental results did not support the proposed metric. 
+Unfortunately, we had to abandon the project as some experimental results did not support the proposed metric. 
 
-For the time being, for more details, please check the link for a full report of the analysis.
-https://drive.google.com/file/d/1c9IrZGvbiYoYrYH0YYVp00u1nWRXQzwi/view?usp=sharing
+For the time being, for more details, please check the full report (Number_of_node_calculation.pdf) of the analysis.
+Note: I want to highlight the last result obtained for stack 3 (Power data) does not support the node calculation; however, overall performance supports it.
 
 Feel free to reach out if you have any questions or feedback.
