@@ -1,4 +1,4 @@
-# Time-series-analysis
+# Time series analysis (LSTM)
 A metric was proposed to select LSTM nodes based on data dimension.
 
 # Discription
