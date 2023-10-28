@@ -1,7 +1,5 @@
 # Time series analysis (LSTM)
-A metric was proposed to select LSTM nodes based on data dimension.
 
-# Discription
 Node selection for LSTM models is typically arbitrary, with values such as 128 or 256 being commonly used. However, if we can develop a heuristic approach for selecting nodes, we can avoid random node assignment for model parameter selection. This will lead to a more efficient utilization of resources and the creation of better models.
 
 I proposed a metric approach to node selection, which is second to none. By leveraging carefully crafted metrics, I analyze and evaluate its performance on a diverse range of two real datasets using various LSTM architectures.
